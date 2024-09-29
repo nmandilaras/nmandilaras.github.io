@@ -5,23 +5,26 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Experience"
+    url: /#work-experience
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Education"
+    url: /#education
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Skills"
+    url: /#technical-skills
     
   - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
+    url: /#selected-projects
+
+  - title: "Misc"
+    url: /#misc
+
+#  - title: "Partners"
+#    url: /partners/
+
+  - title: "Contact"
+    url: /#contact
+
   - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+    url: /files/nikiforos_mandilaras_cv.pdf

@@ -1,0 +1,31 @@
+/* Two-column layout for the skills section */
+.skills-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.skills-column {
+  flex: 1;
+  min-width: 300px; /* Ensures it remains readable on smaller screens */
+}
+
+.skills-column ul {
+  list-style-type: none; /* Remove bullet points for cleaner look */
+  padding-left: 0;
+}
+
+.skills-column ul li {
+  margin-bottom: 10px;
+  padding-left: 20px;
+  position: relative;
+}
+
+/* Add a small icon or bullet for each skill item */
+.skills-column ul li::before {
+  content: '•'; /* You can change this to any icon or emoji */
+  color: #4a90e2;
+  font-size: 1.2em;
+  position: absolute;
+  left: 0;
+}
