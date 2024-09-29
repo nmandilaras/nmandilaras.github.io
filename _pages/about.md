@@ -6,12 +6,10 @@ redirect_from:
   - /about.html
 ---
 
-## Short Bio
-{: #bio}
-
-### 👋 About Me
+## 👋 About Me
 
 I am a Machine Learning Engineer with extensive experience in developing cutting-edge solutions, working with large-scale Recommender Systems, and applying deep reinforcement learning techniques. My passion lies in solving complex problems through data-driven approaches and innovative technologies.
+{: #bio}
 
 ---
 
