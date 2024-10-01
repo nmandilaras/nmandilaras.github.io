@@ -245,6 +245,12 @@ defaults:
     values:
       layout: single
       author_profile: true
+  - scope:
+      path: ""
+      type: partners
+    values:
+      layout: single
+      author_profile: true
 #  # _teaching
 #  - scope:
 #      path: ""

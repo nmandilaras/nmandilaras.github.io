@@ -21,9 +21,12 @@ I am a Machine Learning Engineer with extensive experience in developing cutting
   <div class="timeline-item">
     <div class="timeline-dot"></div>
     <div class="timeline-content">
-      <h2>Nov 2021 – Present</h2>
-      <h3>Taboola Remote - Subcontractor at Deeplab</h3>
-      <p><strong>Machine Learning Engineer - Tech Lead</strong></p>
+      <div class="timeline-header">
+        <span class="company-name">Taboola</span>
+        <span class="timeline-date">Nov 2021 – Present</span>
+      </div>
+      <hr class="timeline-separator" />
+      <p class="job-title">Machine Learning Engineer - Tech Lead</p>
       <ul>
         <li>Working with state-of-the-art algorithms and technologies in a large-scale Recommender System.</li>
         <li>Delivered an incremental learning framework with 12x faster training and deployment cycles, achieving revenue lift.</li>
@@ -35,9 +38,12 @@ I am a Machine Learning Engineer with extensive experience in developing cutting
   <div class="timeline-item">
     <div class="timeline-dot"></div>
     <div class="timeline-content">
-      <h2>June 2021 – Nov 2021</h2>
-      <h3>Ubitech Remote</h3>
-      <p><strong>Machine Learning Engineer</strong></p>
+      <div class="timeline-header">
+        <span class="company-name">Ubitech</span>
+        <span class="timeline-date">June 2021 – Nov 2021</span>
+      </div>
+      <hr class="timeline-separator" />
+      <p class="job-title">Machine Learning Engineer</p>
       <ul>
         <li>Designed solutions for energy consumption optimization in smart-grid settings.</li>
       </ul>
@@ -48,9 +54,12 @@ I am a Machine Learning Engineer with extensive experience in developing cutting
   <div class="timeline-item">
     <div class="timeline-dot"></div>
     <div class="timeline-content">
-      <h2>May 2018 – May 2020</h2>
-      <h3>Intracom Telecom, Athens, Greece</h3>
-      <p><strong>Data Scientist / Big Data Engineer</strong></p>
+      <div class="timeline-header">
+        <span class="company-name">Intracom Telecom</span>
+        <span class="timeline-date">May 2018 – May 2020</span>
+      </div>
+      <hr class="timeline-separator" />
+      <p class="job-title">Data Scientist / Big Data Engineer</p>
       <ul>
         <li>Developed machine learning algorithms for load forecasting and grid optimization.</li>
         <li>Analyzed data from telco and banking industries, working in Hadoop environments.</li>
@@ -59,13 +68,12 @@ I am a Machine Learning Engineer with extensive experience in developing cutting
   </div>
 </div>
 
-
 ---
 
 ## 🎓 Education
 {: #education}
 
-- **National Technical University of Athens** (Athens, Greece)
+- **National Technical University of Athens** 
   - **📘 MSc. in Data Science and Machine Learning**, 9.61/10 (Oct. 2018 – Aug. 2020)  
     *Master Thesis in Resource Allocation with Deep Reinforcement Learning Methods.*
   - **📗 Integrated Master in Electrical and Computer Engineering**, 8.44/10 (Sept. 2012 – Feb. 2018)  

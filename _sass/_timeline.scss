@@ -17,15 +17,14 @@
 /* Dot for each timeline item */
 .timeline-dot {
   position: absolute;
-  left: -11px;
-  top: 50%; /* Position the dot vertically in the middle */
-  transform: translateY(-50%); /* Adjust the dot to be exactly in the middle */
-  width: 20px;
-  height: 20px;
+  left: -11px; /* Adjusted to match the smaller size */
+  top: 20px; /* Position the dot near the top of the content */
+  width: 20px; /* Reduced size for a smaller dot */
+  height: 20px; /* Reduced size for a smaller dot */
   background-color: #4a90e2; /* Softer blue for the dots */
   border-radius: 50%;
   border: 3px solid #f4f4f4; /* White border around the dots */
-  box-shadow: 0 0 10px rgba(74, 144, 226, 0.5); /* Subtle shadow for the dot */
+  box-shadow: 0 0 8px rgba(74, 144, 226, 0.5); /* Subtle shadow for the dot */
 }
 
 /* Content of each timeline item */
@@ -42,24 +41,42 @@
   box-shadow: 0 6px 15px rgba(0, 0, 0, 0.15); /* More prominent shadow on hover */
 }
 
-.timeline-content h2 {
-  margin: 0;
-  font-size: 1.4em;
-  color: #4a90e2; /* Accent color for dates */
+/* Header of each timeline item: Company and Date */
+.timeline-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
 }
 
-.timeline-content h3 {
-  margin: 10px 0 5px;
-  font-size: 1.2em;
-  color: #333; /* Dark gray for company name */
-}
-
-.timeline-content p {
-  margin: 5px 0;
+.company-name {
   font-weight: bold;
-  color: #555; /* Medium gray for position */
+  font-size: 1.1em;
+  color: #000; /* Black color for the company name */
 }
 
+.timeline-date {
+  font-style: italic;
+  font-size: 0.9em;
+  color: #777; /* Lighter gray for the dates */
+}
+
+/* Separator line between header and content */
+.timeline-separator {
+  border: none;
+  border-top: 2px solid #ddd; /* Light gray separator line */
+  margin: 10px 0; /* Space around the separator */
+}
+
+/* Job title styling */
+.job-title {
+  font-weight: bold;
+  font-size: 1.1em;
+  color: #333; /* Dark gray for the job title */
+  margin-bottom: 10px; /* Add space below the job title */
+}
+
+/* Content list styling */
 .timeline-content ul {
   padding-left: 20px;
   color: #555; /* Medium gray for bullet points */
