@@ -9,6 +9,11 @@ layout: compress
   <head>
     <script src="{{ '/assets/js/smooth-scroll.js' | relative_url }}"></script>
     <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+    <script>
+        function onSubmit() {
+            document.getElementById("contactForm").submit()
+        }
+    </script>
     {% include head.html %}
     {% include head/custom.html %}
   </head>

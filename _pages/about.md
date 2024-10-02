@@ -157,7 +157,7 @@ I am a Machine Learning Engineer with extensive experience in developing cutting
 
 Feel free to drop me a message below! Alternatively, you can connect with me on [LinkedIn](https://www.linkedin.com/in/nikiforos-mandilaras/) or reach me at [nikmand@outlook.com](mailto:nikmand@outlook.com).
 
-<form action="https://formspree.io/f/mldrqyvq" method="POST" class="contact-form">
+<form id='contactForm' action="https://formspree.io/f/mldrqyvq" method="POST" class="contact-form">
   <!-- Name and Email on the same row -->
   <div class="form-row">
     <input type="text" name="name" placeholder="Your Name" required>
@@ -169,7 +169,7 @@ Feel free to drop me a message below! Alternatively, you can connect with me on 
 
   <!-- Message Text Area -->
   <textarea name="message" placeholder="Your Message" required></textarea>
-      <div class="g-recaptcha" data-sitekey="6LdQ61UqAAAAAAbIb5-6z6S8Cfe1uryranTMCTkY"></div>
-      <br/>
-  <button type="submit">Send Message</button>
+
+  <button type='submit' class="g-recaptcha" data-sitekey="6LdQ61UqAAAAAAbIb5-6z6S8Cfe1uryranTMCTkY"
+      data-callback='onSubmit' data-action='submit'>Send Message</button>
 </form>
