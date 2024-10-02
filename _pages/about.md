@@ -156,3 +156,19 @@ I am a Machine Learning Engineer with extensive experience in developing cutting
 {: #contact}
 
 You can reach me at [nikmand@outlook.com](mailto:nikmand@outlook.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/nikiforos-mandilaras/).
+
+<form action="https://formspree.io/f/mldrqyvq" method="POST" class="contact-form">
+  <!-- Name and Email on the same row -->
+  <div class="form-row">
+    <input type="text" name="name" placeholder="Your Name" required>
+    <input type="email" name="email" placeholder="Your Email" required>
+  </div>
+
+  <!-- Message Theme -->
+  <input type="text" name="subject" placeholder="Message Theme (optional)">
+
+  <!-- Message Text Area -->
+  <textarea name="message" placeholder="Your Message" required></textarea>
+
+  <button type="submit">Send Message</button>
+</form>
