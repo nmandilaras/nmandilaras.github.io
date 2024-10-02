@@ -155,7 +155,7 @@ I am a Machine Learning Engineer with extensive experience in developing cutting
 ## ✉️ Contact
 {: #contact}
 
-You can reach me at [nikmand@outlook.com](mailto:nikmand@outlook.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/nikiforos-mandilaras/).
+Feel free to drop me a message below! Alternatively, you can connect with me on [LinkedIn](https://www.linkedin.com/in/nikiforos-mandilaras/) or reach me at [nikmand@outlook.com](mailto:nikmand@outlook.com).
 
 <form action="https://formspree.io/f/mldrqyvq" method="POST" class="contact-form">
   <!-- Name and Email on the same row -->
@@ -169,6 +169,7 @@ You can reach me at [nikmand@outlook.com](mailto:nikmand@outlook.com) or connect
 
   <!-- Message Text Area -->
   <textarea name="message" placeholder="Your Message" required></textarea>
-
+      <div class="g-recaptcha" data-sitekey="6LdQ61UqAAAAAAbIb5-6z6S8Cfe1uryranTMCTkY"></div>
+      <br/>
   <button type="submit">Send Message</button>
 </form>
