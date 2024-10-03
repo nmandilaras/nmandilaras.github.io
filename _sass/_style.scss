@@ -1,0 +1,7 @@
+body {
+    background-image: url('/files/background_test.png'); /* Adjust the path as needed */
+    background-size: contain; /* Change from cover to contain */
+    background-position: center; /* Center the image */
+    background-color: #f0f0f0; /* Optional: add a fallback color */
+    color: #333; /* Optional: change text color for contrast */
+}
