@@ -8,7 +8,7 @@ redirect_from:
 
 ## 👋 About Me
 
-I am a Machine Learning Engineer with extensive experience in developing cutting-edge solutions, working with large-scale Recommender Systems, and applying deep reinforcement learning techniques. My passion lies in solving complex problems through data-driven approaches and innovative technologies.
+I am a Machine Learning Engineer with extensive experience in developing cutting-edge solutions, working on large-scale production systems, and applying Deep Learning techniques. My passion lies in solving complex problems through data-driven approaches and innovative technologies.
 {: #bio}
 
 ---
@@ -30,6 +30,8 @@ I am a Machine Learning Engineer with extensive experience in developing cutting
       <ul>
         <li>Working with state-of-the-art algorithms and technologies in a large-scale Recommender System.</li>
         <li>Delivered an incremental learning framework with 12x faster training and deployment cycles, achieving revenue lift.</li>
+        <li>Developed a new candidate generation model using Vespa, leveraging a two-tower architecture to efficiently provide online ranking of suitable items.</li>
+        <li>Part of the algo expert team, leading high-priority initiatives, designing workflows, and providing guidance and code reviews for the rest of algo department.</li>
       </ul>
     </div>
   </div>
@@ -45,7 +47,7 @@ I am a Machine Learning Engineer with extensive experience in developing cutting
       <hr class="timeline-separator" />
       <p class="job-title">Machine Learning Engineer</p>
       <ul>
-        <li>Designed solutions for energy consumption optimization in smart-grid settings.</li>
+        <li>Participated in research activities and designed solutions for improving efficiency in smart-grid environments, including self-consumption optimization, energy savings estimation, and flexibility prediction.</li>
       </ul>
     </div>
   </div>
@@ -61,9 +63,11 @@ I am a Machine Learning Engineer with extensive experience in developing cutting
       <hr class="timeline-separator" />
       <p class="job-title">Data Scientist / Big Data Engineer</p>
       <ul>
-        <li>Developed machine learning algorithms for load forecasting and grid optimization.</li>
-        <li>Analyzed data from telco and banking industries, working in Hadoop environments.</li>
-      </ul>
+        <li>Designed and implemented machine learning algorithms, concerning new smart features for company’s products (e.g.
+load forecasting, grid optimisation, resource allocation).</li>
+        <li>Developed Big Data applications for telco and banking clients using the Hadoop ecosystem, including high-throughput
+ingestion pipelines and complex data analysis.</li>
+</ul>
     </div>
   </div>
 </div>
@@ -112,7 +116,7 @@ I am a Machine Learning Engineer with extensive experience in developing cutting
 {: #selected-projects}
 
 - **🤖 Deep Reinforcement Learning:**  
-  Developed an agent for managing last-level cache sharing in multi-core systems, improving SLA performance and accelerating best-effort applications by 4x.
+  Developed a RL agent for managing last-level cache sharing in multi-core systems, improving SLA performance and accelerating best-effort applications by 4x.
   
 - **🔍 Self Supervision:**  
   Created sophisticated embeddings that improved recommendation accuracy, boosting revenue for users with poor signal history.
@@ -136,7 +140,7 @@ I am a Machine Learning Engineer with extensive experience in developing cutting
 {: #awards}
 
 - **N. Kritikos Scholarship:** Scholarship granted for best overall math performance. NTUA - ECE School.
-- **Christos Papakyriakopoulos Math Award:** Distinction for performance in Mathematics during my studies. NTUA - ECE School.
+- **C. Papakyriakopoulos Math Award:** Distinction for performance in Mathematics during my studies. NTUA - ECE School.
 
 ### 🌍 Languages
 {: #languages}
