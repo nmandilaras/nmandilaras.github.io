@@ -8,7 +8,9 @@ redirect_from:
 
 ## 👋 About Me
 
+<div style="text-align: justify;">
 I am a Machine Learning Engineer with extensive experience in developing cutting-edge solutions, working on large-scale production systems, and applying Deep Learning techniques. My passion lies in solving complex problems through data-driven approaches and innovative technologies.
+</div>
 {: #bio}
 
 ---
@@ -27,7 +29,7 @@ I am a Machine Learning Engineer with extensive experience in developing cutting
       </div>
       <hr class="timeline-separator" />
       <p class="job-title">Machine Learning Engineer - Tech Lead</p>
-      <ul>
+      <ul style="text-align: justify;">
         <li>Working with state-of-the-art algorithms and technologies in a large-scale Recommender System.</li>
         <li>Applying LLMs for representation learning, leveraging fine-tuned embeddings in multiple downstream tasks.</li>
         <li>Delivered an incremental learning framework with 12x faster training and deployment cycles, achieving revenue lift.</li>
@@ -47,7 +49,7 @@ I am a Machine Learning Engineer with extensive experience in developing cutting
       </div>
       <hr class="timeline-separator" />
       <p class="job-title">Machine Learning Engineer</p>
-      <ul>
+      <ul style="text-align: justify;">
         <li>Participated in research activities and designed solutions for improving efficiency in smart-grid environments, including self-consumption optimization, energy savings estimation, and flexibility prediction.</li>
       </ul>
     </div>
@@ -63,8 +65,8 @@ I am a Machine Learning Engineer with extensive experience in developing cutting
       </div>
       <hr class="timeline-separator" />
       <p class="job-title">Data Scientist / Big Data Engineer</p>
-      <ul>
-        <li>Designed and implemented machine learning algorithms, concerning new smart features for company’s products (e.g.
+      <ul style="text-align: justify;">
+        <li>Designed and implemented machine learning algorithms, concerning new smart features for company's products (e.g.
 load forecasting, grid optimisation, resource allocation).</li>
         <li>Developed Big Data applications for telco and banking clients using the Hadoop ecosystem, including high-throughput
 ingestion pipelines and complex data analysis.</li>
