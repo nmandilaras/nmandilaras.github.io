@@ -29,6 +29,7 @@ I am a Machine Learning Engineer with extensive experience in developing cutting
       <p class="job-title">Machine Learning Engineer - Tech Lead</p>
       <ul>
         <li>Working with state-of-the-art algorithms and technologies in a large-scale Recommender System.</li>
+        <li>Applying LLMs for representation learning, leveraging fine-tuned embeddings in multiple downstream tasks.</li>
         <li>Delivered an incremental learning framework with 12x faster training and deployment cycles, achieving revenue lift.</li>
         <li>Developed a new candidate generation model using Vespa, leveraging a two-tower architecture to efficiently provide online ranking of suitable items.</li>
         <li>Part of the algo expert team, leading high-priority initiatives, designing workflows, and providing guidance and code reviews for the rest of algo department.</li>
@@ -94,7 +95,7 @@ ingestion pipelines and complex data analysis.</li>
   <div class="skills-column">
     <ul>
       <li><strong>Languages:</strong> Python, Java, C/C++</li>
-      <li><strong>Deep Learning:</strong> PyTorch, TensorFlow, Keras</li>
+      <li><strong>Deep Learning:</strong> PyTorch, TensorFlow, Keras, LLMs</li>
       <li><strong>ML & Big Data:</strong> Apache Spark, Kafka, Impala, HBase, Sklearn, Pandas, Numpy</li>
     </ul>
   </div>
