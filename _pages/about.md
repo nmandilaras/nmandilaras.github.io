@@ -106,7 +106,7 @@ ingestion pipelines and complex data analysis.</li>
   <div class="skills-column">
     <ul>
       <li><strong>Databases:</strong> BigQuery, Vespa, MongoDB, Elastic</li>
-      <li><strong>CI/CD:</strong> Airflow, Docker, Jenkins, GitLab</li>
+      <li><strong>CI/CD:</strong> Airflow, Docker, Jenkins, Graphana</li>
       <li><strong>Web Development:</strong> JavaScript, React, REST</li>
       <li><strong>Application Frameworks:</strong> Django, Spring</li>
     </ul>
