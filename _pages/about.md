@@ -124,6 +124,9 @@ ingestion pipelines and complex data analysis.</li>
 - **🔍 Self Supervision:**  
   Created sophisticated embeddings that improved recommendation accuracy, boosting revenue for users with poor signal history.
   
+- **⚡ LLM-Based Embedding Pipeline:**
+  Designed and built a distributed production pipeline that generates item embeddings for ad recommendations. Used LLMs for description enrichment and embedding generation. Powers downstream recommendation models with continuously updated item representations.
+
 - **📊 Customer Satisfaction Indexes:**  
   Delivered insights for millions of telco subscribers using Apache Spark, overcoming complex data issues.
 
