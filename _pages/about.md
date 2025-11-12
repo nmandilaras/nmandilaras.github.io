@@ -28,7 +28,7 @@ I am a Machine Learning Engineer with extensive experience in developing cutting
         <span class="timeline-date">Nov 2021 – Present</span>
       </div>
       <hr class="timeline-separator" />
-      <p class="job-title">Machine Learning Engineer - Tech Lead</p>
+      <p class="job-title">Senior Machine Learning Engineer - Tech Lead</p>
       <ul style="text-align: justify;">
         <li>Working with state-of-the-art algorithms and technologies in a large-scale Recommender System.</li>
         <li>Applying LLMs for representation learning, leveraging fine-tuned embeddings in multiple downstream tasks.</li>
