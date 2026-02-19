@@ -9,7 +9,7 @@ redirect_from:
 ## 👋 About Me
 
 <div style="text-align: justify;">
-I’m a Senior Machine Learning Engineer who builds production-grade ML systems end to end. I work at the intersection of modeling, engineering, and real-world constraints, turning ambiguous problems into deployed solutions.
+I’m a Senior Machine Learning Engineer who builds production-grade ML systems end to end. With a track record at major companies across diverse business sectors, I work at the intersection of modeling, engineering, and real-world constraints, turning ambiguous problems into deployed solutions.
 
 I’m most energized by shipping systems that create measurable impact, not just training models.
 </div>
