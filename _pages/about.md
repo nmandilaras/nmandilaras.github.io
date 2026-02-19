@@ -9,7 +9,26 @@ redirect_from:
 ## 👋 About Me
 
 <div style="text-align: justify;">
-I am a Machine Learning Engineer with extensive experience in developing cutting-edge solutions, working on large-scale production systems, and applying Deep Learning techniques. My passion lies in solving complex problems through data-driven approaches and innovative technologies.
+I’m a Senior Machine Learning Engineer who builds production-grade ML systems end to end. I work at the intersection of modeling, engineering, and real-world constraints, turning ambiguous problems into deployed solutions.
+
+I’m most energized by shipping systems that create measurable impact, not just training models.
+</div>
+
+### 🧩 Execution & Philosophy
+{: #how-i-work}
+
+<div style="text-align: justify;" markdown="1">
+
+***Ownership & Agency***: I take responsibility for outcomes. From data sourcing to production deployment, I assume problems are solvable and work through obstacles to deliver critical results.
+
+***Solve the real problem***: I focus on business impact, not just task completion. If a system is inefficient, I’d rather redesign it than patch it.
+
+***End-to-end thinking***: I’m comfortable working across the stack, from debugging low-level code to designing LLM pipelines.
+
+***Bias toward building***: I prototype early, test in real conditions, and iterate fast. Working systems beat perfect plans.
+
+***Clear communication***: I keep stakeholders aligned with concise updates focused on results and next steps, reducing the need for management overhead.
+
 </div>
 {: #bio}
 
@@ -50,7 +69,8 @@ I am a Machine Learning Engineer with extensive experience in developing cutting
       <hr class="timeline-separator" />
       <p class="job-title">Machine Learning Engineer</p>
       <ul style="text-align: justify;">
-        <li>Participated in research activities and designed solutions for improving efficiency in smart-grid environments, including self-consumption optimization, energy savings estimation, and flexibility prediction.</li>
+        <li>Designed ML solutions for smart-grid use cases such as self-consumption optimization, energy savings estimation, and flexibility prediction.</li>
+        <li>Worked with research and engineering teams to turn ideas into working prototypes for the energy domain.</li>
       </ul>
     </div>
   </div>
@@ -66,10 +86,8 @@ I am a Machine Learning Engineer with extensive experience in developing cutting
       <hr class="timeline-separator" />
       <p class="job-title">Data Scientist / Big Data Engineer</p>
       <ul style="text-align: justify;">
-        <li>Designed and implemented machine learning algorithms, concerning new smart features for company's products (e.g.
-load forecasting, grid optimisation, resource allocation).</li>
-        <li>Developed Big Data applications for telco and banking clients using the Hadoop ecosystem, including high-throughput
-ingestion pipelines and complex data analysis.</li>
+        <li>Designed and implemented ML features for telco products, including load forecasting, grid optimisation, and resource allocation.</li>
+        <li>Built Big Data applications for telco and banking clients on Hadoop, including high-throughput ingestion pipelines and complex data analysis.</li>
 </ul>
     </div>
   </div>
@@ -96,19 +114,18 @@ ingestion pipelines and complex data analysis.</li>
   <!-- Column 1 -->
   <div class="skills-column">
     <ul>
-      <li><strong>Languages:</strong> Python, Java, C/C++</li>
+      <li><strong>Languages:</strong> Python, Java</li>
       <li><strong>Deep Learning:</strong> PyTorch, TensorFlow, Keras, LLMs</li>
-      <li><strong>ML & Big Data:</strong> Apache Spark, Kafka, Impala, HBase, Sklearn, Pandas, Numpy</li>
+      <li><strong>ML & Big Data:</strong> Apache Spark, Kafka, Hadoop, Sklearn, Pandas, Numpy</li>
     </ul>
   </div>
 
   <!-- Column 2 -->
   <div class="skills-column">
     <ul>
-      <li><strong>Databases:</strong> BigQuery, Vespa, MongoDB, Elastic</li>
-      <li><strong>CI/CD:</strong> Airflow, Docker, Jenkins, Graphana</li>
-      <li><strong>Web Development:</strong> JavaScript, React, REST</li>
-      <li><strong>Application Frameworks:</strong> Django, Spring</li>
+      <li><strong>Databases:</strong> BigQuery, Vespa, Elastic</li>
+      <li><strong>MLOps:</strong> Airflow, Jenkins, Grafana, K8s, Docker</li>
+      <li><strong>Agents:</strong> Claude Code, Cursor</li>
     </ul>
   </div>
 </div>
@@ -118,17 +135,20 @@ ingestion pipelines and complex data analysis.</li>
 ## 🚀 Selected Projects
 {: #selected-projects}
 
-- **🤖 Deep Reinforcement Learning:**  
-  Developed a RL agent for managing last-level cache sharing in multi-core systems, improving SLA performance and accelerating best-effort applications by 4x.
-  
-- **🔍 Self Supervision:**  
-  Created sophisticated embeddings that improved recommendation accuracy, boosting revenue for users with poor signal history.
-  
-- **⚡ LLM-Based Embedding Pipeline:**
+- **⚡ LLM-Based Embedding Pipeline:**  
   Designed and built a distributed production pipeline that generates item embeddings for ad recommendations. Used LLMs for description enrichment and embedding generation. Powers downstream recommendation models with continuously updated item representations.
 
-- **📊 Customer Satisfaction Indexes:**  
-  Delivered insights for millions of telco subscribers using Apache Spark, overcoming complex data issues.
+- **📈 Incremental CTR Learning Framework:**  
+  Reduced training and deployment overhead by 90% through an incremental learning framework for large-scale CTR prediction that fine-tunes on real-time data streams.
+
+- **🔍 Self-Supervised Recommendation Signals:**  
+  Unlocked revenue from cold-start and low-signal user segments by architecting a self-supervised embedding framework for improved recommendation accuracy.
+
+- **🤖 Deep Reinforcement Learning for Caching:**  
+  Improved best-effort application speeds by 4x while maintaining strict performance SLAs by engineering a Deep RL agent managing last-level cache sharing in multi-core systems.
+
+- **📊 Customer Satisfaction Indexes for Telco:**  
+  Delivered KPIs for millions of telco subscribers using Apache Spark, handling noisy, complex data at scale.
 
 ---
 

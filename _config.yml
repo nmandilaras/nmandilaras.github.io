@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "Athens, Greece"
-title                    : "Nikiforos' Homepage"
+title                    : "Nikiforos Mandilaras"
 title_separator          : "-"
 name                     : &name "Nikiforos Mandilaras"
-description              : &description "Machine Learning Engineer"
+description              : &description "Senior ML/AI Engineer"
 url                      : https://nmandilaras.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nmandilaras/nmandilaras.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "mandilarasEliptical.png"
   name             : "Nikiforos Mandilaras"
   pronouns         : # example: "she/her"
-  bio              : "Machine Learning Engineer"
+  bio              : "Senior ML/AI Engineer"
   location         : "Athens, Greece"
   employer         : # "Red Brick University"
   uri              : # URL
